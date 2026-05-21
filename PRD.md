@@ -43,7 +43,8 @@ A simple and clear way for visitors to get in touch.
 
 ## 3. Design & UX
 
-*   **Aesthetic:** Minimalist, modern, and professional. Clean layout with a consistent color scheme.
+*   **Inspiration:** The UI/UX design will be heavily inspired by the aesthetic and interactivity of the portfolio found at [https://github.com/aino/aino](https://github.com/aino/aino). This includes a focus on clean lines, modern typography, subtle animations, and an overall polished feel.
+*   **Aesthetic:** Minimalist, modern, and professional. Clean layout with a consistent color scheme, aiming for a visually appealing and engaging user experience.
 *   **Responsiveness:** The website must be fully responsive and provide an optimal viewing experience on desktops, tablets, and mobile devices.
 *   **Performance:** The site must be extremely fast. We will aim for high Lighthouse scores by optimizing images, leveraging Next.js static generation and code splitting, and keeping dependencies minimal.
 
