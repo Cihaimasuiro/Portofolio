@@ -1,6 +1,6 @@
-# App Jurnal Kegiatan PKL
+# Portofolio
 
-Aplikasi Jurnal Kegiatan Praktik Kerja Lapangan (PKL) yang dikembangkan menggunakan **Laravel 13**. Aplikasi ini dirancang dengan prinsip arsitektur tingkat enterprise untuk memastikan *maintainability*, *scalability*, dan *clean code*.
+Aplikasi Portofolio yang dikembangkan menggunakan **Laravel 13**. Aplikasi ini dirancang dengan prinsip arsitektur tingkat enterprise untuk memastikan *maintainability*, *scalability*, dan *clean code*.
 
 ---
 
@@ -56,7 +56,7 @@ app/
 │   │   ├── Queries/      # Kueri kompleks atau reusable (Builder Pattern)
 │   │   └── Services/     # Alur bisnis yang melibatkan beberapa langkah/transaksi
 │   │
-│   └── [Modul Lainnya]/  # Modul jurnal, dll.
+│   └── [Modul Lainnya]/  # Modul portofolio, dll.
 │
 ├── Http/
 │   ├── Controllers/      # Hanya untuk memproses Request dan melempar ke Service

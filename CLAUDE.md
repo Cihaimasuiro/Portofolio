@@ -1,7 +1,7 @@
 <laravel-boost-guidelines>
-# Laravel Application
+# Portofolio Application
 
-This repository contains a Laravel application. Complete the following setup before working on the user's request.
+This repository contains the Portofolio Laravel application. Complete the following setup before working on the user's request.
 
 ## Prerequisites
 

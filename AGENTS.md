@@ -2,7 +2,7 @@
 
 # Laravel Enterprise Development Rules
 
-> This document is the mandatory engineering guideline for AI coding agents and human developers working on this Laravel application.
+> This document is the mandatory engineering guideline for AI coding agents and human developers working on the Portofolio application.
 >
 > The primary goals are:
 >
