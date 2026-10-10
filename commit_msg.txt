@@ -1,0 +1,3 @@
+chore: replace Next.js with Laravel framework
+
+initialize the Laravel project structure and remove the previous Next.js implementation. this aligns with the new enterprise guidelines.
